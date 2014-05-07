@@ -12,4 +12,4 @@ Enjoy and contribute with your own creations! (fork and pull-request)
 
 
 
-![screenshot](https://raw.githubusercontent.com/ninja-ide/ninja-art/master/ninja-logo.jpg)
+![screenshot](https://raw.githubusercontent.com/ninja-ide/ninja-art/master/Wallpapers/ninja-logo.jpg)
